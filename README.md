@@ -1,7 +1,7 @@
 # Rapport de Projet : Framework Unifié d'Audit, Hardening et Attaque Contrôlée (Red & Blue Team)
 
 **Établissement :** École d'Ingénierie Digitale et d'Intelligence Artificielle (EIDIA) – Université Euromed de Fès  
-**Réalisé par :** Enock DJE BI, Simplice Sariel METOGHE OBIANG, Océane YAROU  
+**Réalisé par :** Enock DJE BI, Simplice Dariel METOGHE OBIANG, Océane YAROU  
 **Encadré par :** M. AIRAJ Mohammed  
 **Année Universitaire :** 2025–2026  
 
